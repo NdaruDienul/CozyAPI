@@ -1,4 +1,4 @@
-const STATIC_DATA = [
+module.exports = [
   {
     "id": 1,
     "name": "Asterina Kost",
@@ -700,5 +700,3 @@ const STATIC_DATA = [
     "number_of_cupboards": 1
   },
 ]
-
-export default STATIC_DATA;

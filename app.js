@@ -1,5 +1,5 @@
-import express from 'express';
-import data from './data.js';
+const express = require('express');
+const data = require('./data');
 
 const app = express();
 
@@ -10,3 +10,4 @@ app.listen(5000, () => {
   console.log(`ok jalan`);
 });
 
+module.exports = app;
