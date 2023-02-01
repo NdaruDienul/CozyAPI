@@ -4,12 +4,12 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "serve": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  },
-  "type": "module"
+  }
 }
