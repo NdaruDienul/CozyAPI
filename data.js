@@ -1,5 +1,6 @@
 module.exports = [
- {"id":1,"name":"Sanctuary Home",
+ {
+"id":1,"name":"Sanctuary Home",
 "city":"Jakarta",
 "country":"Indonesia",
 "price":48,"image_url":"https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
